@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vhula
 - 👀 I’m interested in Software Design and Architecture
-- 🌱 I’m currently learning System Design of Data Intensive Applications
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me. Email me at vadym.hula@gmail.com
 
 <!---
